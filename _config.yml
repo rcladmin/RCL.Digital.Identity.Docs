@@ -1,0 +1,7 @@
+﻿title: "RCL Digital Identity"
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "dark"
+search_enabled: true
+aux_links:
+  "Docs on GitHub":
+    - "https://github.com/rcl-ssl/docs"
